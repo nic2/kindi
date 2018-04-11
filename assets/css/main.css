@@ -1493,6 +1493,24 @@ code {
 .align-right {
   text-align: right; }
 
+.align-justify {
+  text-align: justify; }
+
+.summary-special {
+  display: flex;
+  justify-content: space-between; }
+
+summary {
+  padding-left: .5em; }
+
+summary::-webkit-details-marker {
+  display: none; }
+
+summary:before {
+  content: "+";
+  font-size: 150%;
+  margin-right: 5px; }
+
 /* Section/Article */
 section.special, article.special {
   text-align: center; }
@@ -1840,6 +1858,9 @@ input[type="radio"] + label:before {
     display: block; }
   .feature h3, .feature h4, .feature h5, .feature h6 {
     text-align: inherit; }
+  .feature p {
+    margin: 0 0 0.5em 0;
+    text-align: justify; }
   .feature .image {
     display: inline-block;
     height: 100%;
@@ -1859,7 +1880,7 @@ input[type="radio"] + label:before {
     vertical-align: middle; }
   .feature .content {
     display: inline-block;
-    padding: 3.5em;
+    padding: 1.5em;
     vertical-align: middle;
     width: 48%; }
     .feature .content h3 {

@@ -187,6 +187,31 @@
 		text-align: right;
 	}
 
+	.align-justify {
+		text-align: justify;
+	}
+
+	.summary-special {
+		display: flex;
+		justify-content: space-between;
+	}
+
+
+summary {
+	padding-left: .5em;
+}
+
+
+summary::-webkit-details-marker {
+	display: none;
+}
+
+summary:before {
+	content: "+";
+	font-size: 150%;
+	margin-right: 5px;
+}
+	
 /* Section/Article */
 
 	section, article {
@@ -643,6 +668,11 @@
 			text-align: inherit;
 		}
 
+		p {
+			margin: 0 0 (_size(element-margin) * 0.25) 0;
+			text-align: justify;			
+		}
+
 		.image {
 			display: inline-block;
 			height: 100%;
@@ -668,7 +698,7 @@
 
 		.content {
 			display: inline-block;
-			padding: 3.5em;
+			padding: 1.5em;
 			vertical-align: middle;
 			width: 48%;
 
@@ -1459,7 +1489,7 @@
 			color: rgba(255,255,255,0.75) !important;
 		}
 
-		::-moz-placeholder {
+		::-moz-placeholder { 
 			color: rgba(255,255,255,0.75) !important;
 		}
 
