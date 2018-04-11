@@ -1207,6 +1207,7 @@ summary:before {
 		&.alt {
 			@include vendor('animation', 'none');
 			background: none;
+			background-color:transparentize($color: _palette(header,bg), $amount: 0.5);
 			color: rgba(255,255,255,0.75);
 			position: absolute;
 

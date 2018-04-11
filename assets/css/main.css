@@ -2174,7 +2174,7 @@ body.landing #page-wrapper {
   100% {
     top: 0; } }
 #header {
-  background: #444;
+  background: #535A29;
   color: #bbb;
   cursor: default;
   height: 3.25em;
@@ -2268,6 +2268,7 @@ body.landing #page-wrapper {
     -ms-animation: none;
     animation: none;
     background: none;
+    background-color: rgba(83, 90, 41, 0.5);
     color: rgba(255, 255, 255, 0.75);
     position: absolute; }
     #header.alt nav > ul > li a:not(.button).icon:before {
@@ -2641,7 +2642,7 @@ body.landing #main {
     top: 0;
     width: 275px;
     z-index: 10002;
-    background: #2b2b2b;
+    background: #333719;
     color: #bbb; }
     #navPanel .link {
       border-bottom: 0;
