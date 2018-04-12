@@ -1863,10 +1863,10 @@ input[type="radio"] + label:before {
     text-align: justify; }
   .feature .image {
     display: inline-block;
+    height: 100%;
     overflow: hidden;
     position: relative;
-    width: 50%;
-    height: auto; }
+    width: 50%; }
     .feature .image img {
       display: block;
       min-height: 100%;
