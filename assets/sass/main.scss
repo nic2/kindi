@@ -650,6 +650,18 @@ summary:before {
 				width: 100%;
 			}
 		}
+
+		&.mban{
+			display:block;
+			margin: 0 0 _size(element-margin) 0;
+			width: 100%;
+
+			img {
+				display: inline-block;
+				width: 100%;
+				max-width: 650px;
+			}
+		}
 	}
 
 /* Feature */

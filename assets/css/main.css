@@ -1847,6 +1847,14 @@ input[type="radio"] + label:before {
     .image.fit img {
       display: block;
       width: 100%; }
+  .image.mban {
+    display: block;
+    margin: 0 0 2em 0;
+    width: 100%; }
+    .image.mban img {
+      display: inline-block;
+      width: 100%;
+      max-width: 650px; }
 
 /* Feature */
 .feature {
