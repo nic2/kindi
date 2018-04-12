@@ -1870,7 +1870,7 @@ summary:before {
 		/* Spotlight */
 
 			.spotlight {
-				background: _palette(bg);
+				//background: _palette(bg);
 				display: block;
 				height: auto;
 				margin-bottom: 2em;
@@ -1886,6 +1886,7 @@ summary:before {
 
 				.image {
 					float: none;
+
 					width: 100%;
 					height: auto;
 				}
