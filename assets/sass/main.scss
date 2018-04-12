@@ -664,7 +664,7 @@ summary:before {
 		}
 	}
 
-/* Feature */
+/* Spotlight */
 
 	.spotlight {
 		position: relative;
@@ -687,15 +687,15 @@ summary:before {
 
 		.image {
 			display: inline-block;
-			height: 100%;
 			overflow: hidden;
 			position: relative;
 			width: 50%;
 
 			img {
 				display: block;
-				min-height: 100%;
 				min-width: 100%;
+				max-width: 100%;
+				height:auto;
 				position: absolute;
 			}
 		}
@@ -1561,7 +1561,7 @@ summary:before {
 				}
 			}
 
-		/* Feature */
+		/* Spotlight */
 
 			.spotlight {
 				height: 18em;
@@ -1867,7 +1867,7 @@ summary:before {
 				}
 			}
 		
-		/* Feature */
+		/* Spotlight */
 
 			.spotlight {
 				background: _palette(bg);
@@ -1886,8 +1886,8 @@ summary:before {
 
 				.image {
 					float: none;
-					height: 15em;
 					width: 100%;
+					height: auto;
 				}
 
 				.content {
@@ -2062,7 +2062,7 @@ summary:before {
 				}
 			}
 		
-		/* Feature */
+		/* Spotlight */
 
 			.spotlight {
 				margin-bottom: 1em;

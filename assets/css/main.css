@@ -1856,7 +1856,7 @@ input[type="radio"] + label:before {
       width: 100%;
       max-width: 650px; }
 
-/* Feature */
+/* Spotlight */
 .spotlight {
   position: relative;
   height: 20em; }
@@ -1871,14 +1871,14 @@ input[type="radio"] + label:before {
     text-align: justify; }
   .spotlight .image {
     display: inline-block;
-    height: 100%;
     overflow: hidden;
     position: relative;
     width: 50%; }
     .spotlight .image img {
       display: block;
-      min-height: 100%;
       min-width: 100%;
+      max-width: 100%;
+      height: auto;
       position: absolute; }
   .spotlight:before {
     background: blue;
@@ -2516,7 +2516,7 @@ body.landing #main {
     #banner h2 {
       font-size: 3.5em; }
 
-  /* Feature */
+  /* Spotlight */
   .spotlight {
     height: 18em; }
     .spotlight .content {
@@ -2749,7 +2749,7 @@ body.landing #main {
         margin-bottom: -2em;
         margin-top: 2em; }
 
-  /* Feature */
+  /* Spotlight */
   .spotlight {
     background: #f5f5f5;
     display: block;
@@ -2761,8 +2761,8 @@ body.landing #main {
       display: none; }
     .spotlight .image {
       float: none;
-      height: 15em;
-      width: 100%; }
+      width: 100%;
+      height: auto; }
     .spotlight .content {
       border: solid 1px #e5e5e5;
       padding: 2em !important;
@@ -2856,7 +2856,7 @@ body.landing #main {
         margin-bottom: -3em;
         margin-top: 3em; }
 
-  /* Feature */
+  /* Spotlight */
   .spotlight {
     margin-bottom: 1em; }
     .spotlight .content {
