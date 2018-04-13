@@ -191,26 +191,22 @@
 		text-align: justify;
 	}
 
+.floating-box {
+    display: inline-block;
+    margin: 5px;
+}
+
+.floating-box-right {
+    float: right;
+    margin: 5px;
+}
+
 	.summary-special {
 		display: flex;
 		justify-content: space-between;
 	}
 
 
-summary {
-	padding-left: .5em;
-}
-
-
-summary::-webkit-details-marker {
-	display: none;
-}
-
-summary:before {
-	content: "+";
-	font-size: 150%;
-	margin-right: 5px;
-}
 	
 /* Section/Article */
 
