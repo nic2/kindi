@@ -501,6 +501,12 @@ summary:before {
 					&:nth-child(2n-1) {
 						padding-left: 0;
 					}
+
+					.image{
+						min-width: 50%;
+						border-radius: 6em;
+						border:0;
+					}
 				}
 
 				&:first-child {
@@ -1413,8 +1419,15 @@ summary:before {
 /* Footer */
 
 	#footer {
-		background: #f0f0f0;
+		// background: #f0f0f0;
 		padding: 4em 0 6em 0;
+		background-attachment:	scroll,							fixed;
+		background-color:		#666;
+		background-image:		url('images/overlay.png'),		url('../../images/banner2.jpg');
+		background-position:	top left,						center center;
+		background-repeat:		repeat,							no-repeat;
+		background-size:		auto,							cover;
+		color: _palette(accent2, fg-bold);
 		text-align: center;
 
 		.icons {
@@ -1429,7 +1442,7 @@ summary:before {
 		}
 
 		.copyright {
-			color: _palette(fg-light);
+			color: _palette(accent2, fg-light);
 			font-size: 0.9em;
 			line-height: 1em;
 			margin: 2em 0 0 0;
