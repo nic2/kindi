@@ -1903,7 +1903,8 @@ input[type="radio"] + label:before {
         right: 0;
         top: 0; }
     .spotlight.left .content {
-      padding-right: 0; }
+      padding-right: 0;
+      padding-bottom: 0.5em; }
   .spotlight.right {
     text-align: right; }
     .spotlight.right .image {
@@ -1912,7 +1913,8 @@ input[type="radio"] + label:before {
         left: 0;
         top: 0; }
     .spotlight.right .content {
-      padding-left: 0; }
+      padding-left: 0;
+      padding-bottom: 0.5em; }
   .spotlight.long .content {
     padding-top: 0; }
 
@@ -2762,7 +2764,7 @@ body.landing #main {
       height: auto; }
     .spotlight .content {
       border: solid 1px #e5e5e5;
-      padding: 0 2em 0 2em !important;
+      padding: 0 2em 0.5em 2em !important;
       text-align: center;
       width: 100%; }
 

@@ -668,7 +668,6 @@ summary:before {
 
 	.spotlight {
 		position: relative;
-		//height: 20em;
 
 		&:after {
 			clear: both;
@@ -738,6 +737,8 @@ summary:before {
 
 			.content {
 				padding-right: 0;
+				padding-bottom:0.5em;
+
 			}
 		}
 
@@ -755,6 +756,7 @@ summary:before {
 
 			.content {
 				padding-left: 0;
+				padding-bottom:0.5em;
 			}
 		}
 
@@ -1894,7 +1896,7 @@ summary:before {
 
 				.content {
 					border: solid 1px _palette(border);
-					padding: 0 2em 0 2em !important;
+					padding: 0 2em 0.5em 2em !important;
 					text-align: center;
 					width: 100%;
 				}
