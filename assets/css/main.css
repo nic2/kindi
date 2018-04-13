@@ -1391,7 +1391,7 @@ a {
   -ms-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
   transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
   border-bottom: dotted 1px;
-  color: #e89980;
+  color: #546921;
   text-decoration: none; }
   a:hover {
     border-bottom-color: transparent; }
@@ -1587,8 +1587,8 @@ textarea {
   input[type="email"]:focus,
   select:focus,
   textarea:focus {
-    border-color: #e89980;
-    box-shadow: 0 0 0 2px #e89980; }
+    border-color: #546921;
+    box-shadow: 0 0 0 2px #546921; }
 
 .select-wrapper {
   text-decoration: none;
@@ -1678,8 +1678,8 @@ input[type="radio"] {
     content: '\f00c'; }
   input[type="checkbox"]:focus + label:before,
   input[type="radio"]:focus + label:before {
-    border-color: #e89980;
-    box-shadow: 0 0 0 1px #e89980; }
+    border-color: #546921;
+    box-shadow: 0 0 0 1px #546921; }
 
 input[type="checkbox"] + label:before {
   border-radius: 6px; }
@@ -1815,7 +1815,7 @@ input[type="radio"] + label:before {
       background: #666;
       color: #ffffff; }
     .icon.major.accent2 {
-      background: #e89980;
+      background: #546921;
       color: #ffffff; }
     .icon.major.accent3 {
       background: #7fcdb8;
@@ -2135,18 +2135,18 @@ input[type="button"],
   input[type="reset"].special,
   input[type="button"].special,
   .button.special {
-    background-color: #e89980;
+    background-color: #546921;
     color: #ffffff !important; }
     input[type="submit"].special:hover,
     input[type="reset"].special:hover,
     input[type="button"].special:hover,
     .button.special:hover {
-      background-color: #ecaa96; }
+      background-color: #647c27; }
     input[type="submit"].special:active,
     input[type="reset"].special:active,
     input[type="button"].special:active,
     .button.special:active {
-      background-color: #e4886a; }
+      background-color: #44561b; }
   input[type="submit"].disabled, input[type="submit"]:disabled,
   input[type="reset"].disabled,
   input[type="reset"]:disabled,
@@ -2328,7 +2328,7 @@ body.landing #page-wrapper {
     .dropotron li:first-child > a, .dropotron li:first-child > span {
       border-top: 0; }
     .dropotron li.active > a, .dropotron li.active > span, .dropotron li:hover > a, .dropotron li:hover > span {
-      background: #e89980;
+      background: #546921;
       color: #ffffff; }
   .dropotron.level-0 {
     font-size: 0.9em;
@@ -2455,8 +2455,8 @@ body.landing #main {
 
 /* CTA */
 #cta {
-  background: #e89980;
-  color: #f9e6df;
+  background: #546921;
+  color: #d4dac8;
   padding: 3.5em 0 4em 0;
   text-align: center; }
   #cta h2, #cta h3, #cta h4, #cta h5, #cta h6 {
@@ -2471,7 +2471,7 @@ body.landing #main {
   #cta .button {
     box-shadow: none;
     background: #fff;
-    color: #e89980; }
+    color: #546921; }
   #cta input[type="text"],
   #cta input[type="password"],
   #cta input[type="email"],
