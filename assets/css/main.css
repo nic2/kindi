@@ -1748,6 +1748,10 @@ input[type="radio"] + label:before {
           width: 2px; }
       .box.features .features-row section:nth-child(2n-1) {
         padding-left: 0; }
+      .box.features .features-row section .image {
+        min-width: 50%;
+        border-radius: 6em;
+        border: 0; }
     .box.features .features-row:first-child {
       border-top: 0; }
       .box.features .features-row:first-child section {

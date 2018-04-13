@@ -501,6 +501,12 @@ summary:before {
 					&:nth-child(2n-1) {
 						padding-left: 0;
 					}
+
+					.image{
+						min-width: 50%;
+						border-radius: 6em;
+						border:0;
+					}
 				}
 
 				&:first-child {
