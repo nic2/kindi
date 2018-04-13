@@ -1858,8 +1858,7 @@ input[type="radio"] + label:before {
 
 /* Spotlight */
 .spotlight {
-  position: relative;
-  height: 20em; }
+  position: relative; }
   .spotlight:after {
     clear: both;
     content: '';
@@ -1888,11 +1887,12 @@ input[type="radio"] + label:before {
     vertical-align: middle; }
   .spotlight .content {
     display: inline-block;
-    padding: 1.5em;
+    padding: 0 1.5em 0 1.5em;
     vertical-align: middle;
     width: 48%; }
     .spotlight .content h3 {
-      margin-bottom: 0.5em; }
+      margin-bottom: 0.5em;
+      margin-top: 0.5em; }
     .spotlight .content :last-child {
       margin: 0; }
   .spotlight.left {
@@ -2517,10 +2517,8 @@ body.landing #main {
       font-size: 3.5em; }
 
   /* Spotlight */
-  .spotlight {
-    height: 18em; }
-    .spotlight .content {
-      padding: 2.5em; } }
+  .spotlight .content {
+    padding: 0 2.5em 0 2.5em; } }
 /* Narrow */
 @media screen and (max-width: 980px) {
   /* Basic */
@@ -2764,7 +2762,7 @@ body.landing #main {
       height: auto; }
     .spotlight .content {
       border: solid 1px #e5e5e5;
-      padding: 2em !important;
+      padding: 0 2em 0 2em !important;
       text-align: center;
       width: 100%; }
 

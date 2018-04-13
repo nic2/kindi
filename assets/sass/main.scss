@@ -668,7 +668,7 @@ summary:before {
 
 	.spotlight {
 		position: relative;
-		height: 20em;
+		//height: 20em;
 
 		&:after {
 			clear: both;
@@ -710,12 +710,13 @@ summary:before {
 
 		.content {
 			display: inline-block;
-			padding: 1.5em;
+			padding: 0 1.5em 0 1.5em;
 			vertical-align: middle;
 			width: 48%;
 
 			h3 {
 				margin-bottom: 0.5em;
+				margin-top: 0.5em;
 			}
 
 			:last-child {
@@ -1564,10 +1565,10 @@ summary:before {
 		/* Spotlight */
 
 			.spotlight {
-				height: 18em;
+				//height: 18em;
 
 				.content {
-					padding: 2.5em;
+					padding: 0 2.5em 0 2.5em;
 				}
 			}
 
@@ -1893,7 +1894,7 @@ summary:before {
 
 				.content {
 					border: solid 1px _palette(border);
-					padding: 2em !important;
+					padding: 0 2em 0 2em !important;
 					text-align: center;
 					width: 100%;
 				}
