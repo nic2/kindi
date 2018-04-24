@@ -16,38 +16,13 @@
 		<div id="page-wrapper">
 			<!-- Header -->
 				<header id="header">
-						<h1><a href="index.html">Schönbuchstrolche e.V.</a></h1>
-						<!-- General Navigation-->
-						<nav id="nav">
-							<ul>
-								<li><a href="index.html">Home</a></li>
-								<li>
-									<a href="#" class="icon fa-angle-down">Kindergarten</a>
-									<ul>
-										<li><a href="generic.html">Konzept</a></li>
-										<li><a href="contact.html">Unsere Hütte</a></li>
-										<li><a href="elements.html">Die Waldplätze</a></li>
-										<li><a href="elements.html">Das haben wir dabei</a></li>
-										<li><a href="elements.html">Das braucht ihr</a></li>
-									</ul>
-								</li>
-								<li>
-									<a href="#" class="icon fa-angle-down">Verein</a>
-									<ul>
-										<li><a href="generic.html">Vorstand</a></li>
-										<li><a href="contact.html">Satzung</a></li>
-										<li><a href="elements.html">Elternmitarbeit</a></li>
-									</ul>
-								</li>
-								<li><a href="index.html">Anmeldung</a></li>
-								<li><a href="index.html">FAQ</a></li>
-								<li><a href="index.html">Jobs</a></li>
-							</ul>
-						</nav>
+					<?php
+					include('./header.html')
+					?>
                 </header>
                 
-                <section id="generic_banner">
-					
+                <section id="banner">
+
                 </section>
 
 			<!-- Main -->

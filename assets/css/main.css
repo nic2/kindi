@@ -1375,7 +1375,7 @@ body {
     margin-left: 8.3333333333%; } }
 /* Basic */
 body {
-  background: #91cf6a; }
+  background: rgba(176, 213, 46, 0.25); }
 
 body, input, select, textarea {
   color: #777;
@@ -2153,7 +2153,7 @@ input[type="button"],
   .button:disabled {
     background-color: #777 !important;
     box-shadow: inset 0 -0.15em 0 0 rgba(0, 0, 0, 0.15);
-    color: #91cf6a !important;
+    color: #B0D52E !important;
     cursor: default;
     opacity: 0.25; }
 
@@ -2397,6 +2397,53 @@ body.landing #page-wrapper {
       background: #fff;
       color: #666 !important; }
 
+#generic_banner {
+  background-attachment: scroll,							fixed;
+  background-color: #666;
+  background-image: url("images/overlay.png"), url("../../images/banner2.jpg");
+  background-position: top left,						center center;
+  background-repeat: repeat,							no-repeat;
+  background-size: auto,							cover;
+  color: #fff;
+  padding: 4em 0 4em 0;
+  text-align: center; }
+  #generic_banner :last-child {
+    margin-bottom: 0; }
+  #generic_banner h2, #generic_banner h3, #generic_banner h4, #generic_banner h5, #generic_banner h6 {
+    color: #fff; }
+  #generic_banner h2 {
+    font-size: 3.5em;
+    line-height: 1em;
+    margin: 0 0 0.5em 0;
+    padding: 0; }
+  #generic_banner p {
+    font-size: 1.25em;
+    margin-bottom: 1.75em; }
+  #generic_banner input[type="submit"],
+  #generic_banner input[type="reset"],
+  #generic_banner input[type="button"],
+  #generic_banner .button {
+    background-color: transparent;
+    box-shadow: inset 0 0 0 2px rgba(255, 255, 255, 0.5);
+    color: #fff;
+    min-width: 12em; }
+    #generic_banner input[type="submit"]:hover,
+    #generic_banner input[type="reset"]:hover,
+    #generic_banner input[type="button"]:hover,
+    #generic_banner .button:hover {
+      background-color: rgba(255, 255, 255, 0.1); }
+    #generic_banner input[type="submit"]:active,
+    #generic_banner input[type="reset"]:active,
+    #generic_banner input[type="button"]:active,
+    #generic_banner .button:active {
+      background-color: rgba(255, 255, 255, 0.2); }
+    #generic_banner input[type="submit"].special,
+    #generic_banner input[type="reset"].special,
+    #generic_banner input[type="button"].special,
+    #generic_banner .button.special {
+      background: #fff;
+      color: #666 !important; }
+
 /* Main */
 #main {
   padding: 4em 0; }
@@ -2508,7 +2555,10 @@ body.landing #main {
 
   /* Banner */
   #banner {
-    padding: 10em 0 18em 0; } }
+    padding: 10em 0 18em 0; }
+
+  #generic_banner {
+    padding: 4em 0 4em 0; } }
 /* Normal */
 @media screen and (max-width: 1280px) {
   /* Basic */
@@ -2523,6 +2573,11 @@ body.landing #main {
   #banner {
     background-attachment: scroll; }
     #banner h2 {
+      font-size: 3.5em; }
+
+  #generic_banner {
+    background-attachment: scroll; }
+    #generic_banner h2 {
       font-size: 3.5em; }
 
   /* Spotlight */
@@ -2871,6 +2926,9 @@ body.landing #main {
   /* Banner */
   #banner {
     padding: 5em 1em 4em 1em; }
+
+  #generic_banner {
+    padding: 3em 1em 3em 1em; }
 
   /* Main */
   #main > .box:first-child {
