@@ -1825,6 +1825,11 @@ input[type="radio"] + label:before {
       color: #ffffff; }
 
 /* Image */
+.clearfix::after {
+  content: "";
+  display: table;
+  clear: both; }
+
 .image {
   border-radius: 6px;
   border: 0;
@@ -1836,11 +1841,13 @@ input[type="radio"] + label:before {
   .image.left {
     float: left;
     padding: 0 1.5em 1em 0;
-    top: 0.25em; }
+    top: 0.25em;
+    width: 33%; }
   .image.right {
     float: right;
     padding: 0 0 1em 1.5em;
-    top: 0.25em; }
+    top: 0.25em;
+    width: 33%; }
   .image.fit {
     display: block;
     margin: 0 0 2em 0;
