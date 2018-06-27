@@ -209,10 +209,12 @@
 
 /* Details/Summary */
 	details {
-		border: solid 1px _palette(border);
-		border-radius: _size(border-radius);
-		box-shadow: 0 2px 0 0 _palette(border);
-		margin: 0 0 .4em;
+		&.faq {
+			border: solid 1.5px _palette(border);
+			border-radius: _size(border-radius);
+			box-shadow: 0 2.5px 0 0 _palette(border);
+			margin: 0 0 .4em;
+		}
 	}
 
 	details summary {
@@ -828,7 +830,13 @@
 					padding-top: 0;
 				}
 			}
+		
 		}
+		
+		&.nobullet {
+			list-style-type: none;
+		}
+
 
 		&.icons {
 			cursor: default;
