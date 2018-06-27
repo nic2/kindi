@@ -207,6 +207,24 @@
 	}
 
 
+/* Details/Summary */
+	details {
+		border: solid 1px _palette(border);
+		border-radius: _size(border-radius);
+		box-shadow: 0 2px 0 0 _palette(border);
+		margin: 0 0 .4em;
+	}
+
+	details summary {
+		cursor: pointer;
+		padding: 1%;
+	}
+
+	details div {
+		padding: 2%;
+	}
+
+
 	
 /* Section/Article */
 
