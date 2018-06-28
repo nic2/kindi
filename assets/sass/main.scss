@@ -201,12 +201,6 @@
     margin: 5px;
 }
 
-	.summary-special {
-		display: flex;
-		justify-content: space-between;
-	}
-
-
 /* Details/Summary */
 	details {
 		&.faq {
@@ -229,7 +223,6 @@
 
 	
 /* Section/Article */
-
 	section, article {
 		&.special {
 			text-align: center;

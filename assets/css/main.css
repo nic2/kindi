@@ -1504,10 +1504,6 @@ code {
   float: right;
   margin: 5px; }
 
-.summary-special {
-  display: flex;
-  justify-content: space-between; }
-
 /* Details/Summary */
 details.faq {
   border: solid 1.5px #e5e5e5;
