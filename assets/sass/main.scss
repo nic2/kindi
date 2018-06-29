@@ -486,13 +486,13 @@
 				section {
 					float: left;
 					padding: $box-padding;
-					width: 50%;
+					width: 33%;
 
 					:last-child {
 						margin-bottom: 0;
 					}
 
-					&:nth-child(2n) {
+					&:nth-child(2n), &:nth-child(3n) {
 						&:before {
 							background: _palette(border);
 							content: '';
@@ -503,16 +503,10 @@
 							top: 0;
 							width: 2px;
 						}
-
-						padding-right: 0;
-					}
-
-					&:nth-child(2n-1) {
-						padding-left: 0;
 					}
 
 					.image{
-						min-width: 50%;
+						min-width: 75%;
 						border-radius: 6em;
 						border:0;
 					}

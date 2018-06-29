@@ -1739,24 +1739,20 @@ input[type="radio"] + label:before {
     .box.features .features-row section {
       float: left;
       padding: 3em;
-      width: 50%; }
+      width: 33%; }
       .box.features .features-row section :last-child {
         margin-bottom: 0; }
-      .box.features .features-row section:nth-child(2n) {
-        padding-right: 0; }
-        .box.features .features-row section:nth-child(2n):before {
-          background: #e5e5e5;
-          content: '';
-          display: block;
-          height: 100%;
-          margin-left: -3em;
-          position: absolute;
-          top: 0;
-          width: 2px; }
-      .box.features .features-row section:nth-child(2n-1) {
-        padding-left: 0; }
+      .box.features .features-row section:nth-child(2n):before, .box.features .features-row section:nth-child(3n):before {
+        background: #e5e5e5;
+        content: '';
+        display: block;
+        height: 100%;
+        margin-left: -3em;
+        position: absolute;
+        top: 0;
+        width: 2px; }
       .box.features .features-row section .image {
-        min-width: 50%;
+        min-width: 75%;
         border-radius: 6em;
         border: 0; }
     .box.features .features-row:first-child {
