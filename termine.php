@@ -34,3 +34,10 @@
     </ul>
 </section>
 //-->
+<?php
+?>
+<section class="box">
+    <h3> Termine</h3>
+    <ul class="alt">
+    </ul>
+</section>
