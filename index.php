@@ -11,6 +11,7 @@
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+		<link rel="stylesheet" href="assets/css/jquery.modal.min.css" />
 	</head>
 	<body class="landing">
 		<div id="page-wrapper">
@@ -75,13 +76,7 @@
 							Unser Team besteht aus 5 festangestellten Fachkräften. Daneben werden wir von ... unterstützt
 						</p>
 						<div class="features-row">
-							<section>
-								<a href="#">
-									<img class="image" src="images/team_maximilian.jpg" alt="Bild Maximilian Ebers">
-								</a>
-								<h3>Maximilian Evers</h3>
-								<p>Staatliche Anerkannter Erzieher, Pädagogische Leitung</p>
-							</section>
+							<?php include("team/team_max_short.html") ?>
 							<section>
 								<a href="#">
 									<img class="image" src="images/team_elena.jpg" alt="Bild Elena Schmidt">
@@ -165,6 +160,6 @@
 			<script src="assets/js/util.js"></script>
 			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
 			<script src="assets/js/main.js"></script>
-
+			<script src="assets/js/jquery.modal.min.js"></script>
 	</body>
 </html>

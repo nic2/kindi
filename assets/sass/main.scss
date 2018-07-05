@@ -191,20 +191,21 @@
 		text-align: justify;
 	}
 
-.floating-box {
+	.floating-box {
     display: inline-block;
     margin: 5px;
-}
+	}
 
-.floating-box-right {
+	.floating-box-right {
     float: right;
     margin: 5px;
-}
+	}
 
 	.summary-special {
 		display: flex;
 		justify-content: space-between;
 	}
+
 
 
 /* Details/Summary */
