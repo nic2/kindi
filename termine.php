@@ -29,7 +29,7 @@ while ($termine= $result->fetch_assoc()) {
     $start_timestring = $termine['startzeit'];
     $start_datum = strtotime($start_timestring);
     $now = time();
-        if ($start_datum < $now) {
+        if ($start_datum > $now) {
             $eventdatum = date('d.m.Y', $start_datum);
             echo "\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t<details>\n\t\t\t\t\t\t\t\t\t\t\t<summary>\n\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"floating-box\">". $eventdatum. "</span>\n";
             echo "\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"floating-box\">".$termine['titel']."</span>\n\t\t\t\t\t\t\t\t\t\t\t</summary>\n";
