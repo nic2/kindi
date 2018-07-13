@@ -1,5 +1,5 @@
-@import url("./font-awesome.min.css");
-@import url("./source_sans_pro_stylesheet.css");
+@import url("font-awesome.min.css");
+@import url("source_sans_pro_styesheet.css");
 /*
 	Alpha by HTML5 UP
 	html5up.net | @ajlkn
@@ -1752,8 +1752,10 @@ input[type="radio"] + label:before {
         top: 0;
         width: 2px; }
       .box.features .features-row section .image {
-        min-width: 75%;
-        border-radius: 6em;
+        min-width: 85%;
+        max-width: 85%;
+        border-radius: 0em;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
         border: 0; }
     .box.features .features-row:first-child {
       border-top: 0; }
