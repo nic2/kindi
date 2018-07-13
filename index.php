@@ -73,47 +73,12 @@
 					<section class="box special features">
 						<h2>Das Team</h2>
 						<p>
-							Unser Team besteht aus 5 festangestellten Fachkräften. Daneben werden wir von ... unterstützt
+							Unser Team besteht aus 3 festangestellten Fachkräften. Daneben werden wir regelmäßig von einer engagierten Studentin unterstützt
 						</p>
 						<div class="features-row">
-							<?php include("team/team_max_short.html") ?>
-							<section>
-								<a href="#">
-									<img class="image" src="images/team_elena.jpg" alt="Bild Elena Schmidt">
-								</a>
-								<h3>Elena Schmidt</h3>
-								<p>Freischaffende Künstlerin</p>
-							</section>
-							<section>
-									<a href="#">
-											<img class="image" src="images/team_maximilian.jpg" alt="Bild Maximilian Ebers">
-									</a>
-								<h3>Clara</h3>
-								<p>Studentin Pädagogische Hochschule Ludwigsburg</p>
-							</section>
-						</div>
-						<div class="features-row">
-							<section>
-									<a href="#">
-											<img class="image" src="images/team_maximilian.jpg" alt="Bild Maximilian Ebers">
-									</a>
-								<h3>Uta Baumann</h3>
-								<p>Naturpädagogin</p>
-							</section>
-							<section>
-									<a href="#">
-											<img class="image" src="images/team_elena.jpg" alt="Bild Elena Schmidt">
-									</a>
-								<h3>Richard</h3>
-								<p>Kinderpfleger im Anerkennungspraktikum</p>
-							</section>
-							<section>
-									<a href="#">
-											<img class="image" src="images/team_elena.jpg" alt="Bild Elena Schmidt">
-									</a>
-									<h3>Der Schönbuch</h3>
-									<p>Naturpädagogin</p>
-							</section>
+							<?php include("team/team_klara_short.html") ?>
+							<?php include("team/team_elena_short.html") ?>
+							<?php include("team/team_richard_short.html") ?>
 						</div>
 					</section>
 
