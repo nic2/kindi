@@ -2,7 +2,7 @@
 @import 'libs/functions';
 @import 'libs/mixins';
 @import url('font-awesome.min.css');
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,300italic,400italic");
+@import url("source_sans_pro_styesheet.css");
 
 /*
 	Alpha by HTML5 UP
@@ -1404,7 +1404,7 @@
 	#generic_banner{
 		background-attachment:	scroll,							fixed;
 		background-color:		#666;
-		background-image:		url('images/overlay.png'),		url('../../images/banner2.jpg');
+		background-image:		url('images/overlay.png'),		url('../../images/banner4.jpg');
 		background-position:	top left,						center center;
 		background-repeat:		repeat,							no-repeat;
 		background-size:		auto,							cover;
@@ -1494,7 +1494,7 @@
 		padding: 4em 0 6em 0;
 		background-attachment:	scroll,							fixed;
 		background-color:		#666;
-		background-image:		url('images/overlay.png'),		url('../../images/banner2.jpg');
+		background-image:		url('images/overlay.png'),		url('../../images/banner4.jpg');
 		background-position:	top left,						center center;
 		background-repeat:		repeat,							no-repeat;
 		background-size:		auto,							cover;
