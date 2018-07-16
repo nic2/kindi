@@ -1,6 +1,13 @@
+<?php 
+
+# index.php
+# Hauptsite des WEbauftritts der Schönbuchstrolche Waldkindergarten Hildrizhausen e.V
+# Erstellt 2018: Nicole und Florian Schön
+
+?>
 <!DOCTYPE HTML>
 <!-- 
-    Schönbuchstrolche Waldkindergarten Hildrizhausen e. V.
+    Schönbuchstrolche Waldkindergarten Hildrizhausen e.V.
     (C) 2018 
 -->
 <html>
@@ -73,7 +80,7 @@
 					<section class="box special features">
 						<h2>Das Team</h2>
 						<p>
-							Unser Team besteht aus 3 festangestellten Fachkräften. Daneben werden wir regelmäßig von einer engagierten Studentin unterstützt
+							Unser Team besteht aus 3 festangestellten Fachkräften. Daneben werden wir regelmäßig von einer engagierten Studentin unterstützt.
 						</p>
 						<div class="features-row">
 							<?php include("team/team_klara_short.html") ?>
