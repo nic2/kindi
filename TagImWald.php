@@ -31,7 +31,7 @@
 			</header>
                 <section id="generic_banner">
 					
-					</section>
+				</section>
 			<!-- Main -->
 				<section id="main" class="container">
 					<header>
@@ -174,8 +174,7 @@ Zum Vesper haben wir selbst etwas mitgebracht. Tee und im Sommer Sprudel sind im
                     <?php
 						include('./footer.html')
 					?>
-				</footer>
-
+			</footer>
 		</div>
 
 		<!-- Scripts -->
