@@ -451,7 +451,7 @@
 
 /* Box */
 
-	$box-padding: 3em;
+	$box-padding: 2em;
 
 	.box {
 		background: #fff;
@@ -506,8 +506,8 @@
 					}
 
 					.image{
-						min-width: 85%;
-						max-width: 85%;
+						min-width: 95%;
+						max-width: 95%;
 						border-radius: 0em;
 						box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 						border:0;

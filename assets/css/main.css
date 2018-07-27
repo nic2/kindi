@@ -1720,7 +1720,7 @@ input[type="radio"] + label:before {
   border-radius: 6px;
   box-shadow: 0 2px 0 0 #e5e5e5;
   margin: 0 0 2em 0;
-  padding: 3em; }
+  padding: 2em; }
   .box > :last-child {
     margin-bottom: 0; }
   .box.alt {
@@ -1738,7 +1738,7 @@ input[type="radio"] + label:before {
       display: block; }
     .box.features .features-row section {
       float: left;
-      padding: 3em;
+      padding: 2em;
       width: 33%; }
       .box.features .features-row section :last-child {
         margin-bottom: 0; }
@@ -1752,8 +1752,8 @@ input[type="radio"] + label:before {
         top: 0;
         width: 2px; }
       .box.features .features-row section .image {
-        min-width: 85%;
-        max-width: 85%;
+        min-width: 95%;
+        max-width: 95%;
         border-radius: 0em;
         box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
         border: 0; }
@@ -1770,23 +1770,23 @@ input[type="radio"] + label:before {
   .box .image.featured {
     border-radius: 0;
     display: block;
-    margin: 3em 0 3em -3em;
+    margin: 2em 0 2em -2em;
     position: relative;
-    width: calc(100% + 6em); }
+    width: calc(100% + 4em); }
     .box .image.featured img {
       border-radius: 0;
       display: block;
       width: 100%; }
     .box .image.featured:first-child {
       border-radius: 6px 6px 0 0;
-      margin-bottom: 3em;
-      margin-top: -3em; }
+      margin-bottom: 2em;
+      margin-top: -2em; }
       .box .image.featured:first-child img {
         border-radius: 6px 6px 0 0; }
     .box .image.featured:last-child {
       border-radius: 0 0 6px 6px;
-      margin-bottom: -3em;
-      margin-top: 3em; }
+      margin-bottom: -2em;
+      margin-top: 2em; }
       .box .image.featured:last-child img {
         border-radius: 0 0 6px 6px; }
 
