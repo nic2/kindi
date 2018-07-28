@@ -51,27 +51,27 @@
 
 					<section class="box special">
 						<section class="spotlight left">
-							<a href="#"><img class="image" src="images/pic01.jpg" alt="" /></a>
+							<a href="unsereHuette.php"><img class="image" src="images/pic01.jpg" alt="" /></a>
 							<div class="content">
 								<h3>Unsere Hütte</h3>
 								<p>Zu unserem Waldkindergarten gehört eine Blockhütte mit angrenzendem Spielbereich. Diese dient als Rückzugsort bei sehr nassem, kaltem oder windigem Wetter. Hier gibt es auch einen warmen Holzpelettofen, eine Küche und ein Bad mit Toilette.</p>
-								<a href="#" class="button alt small">Mehr erfahren</a>
+								<a href="unsereHuette.php" class="button alt small">Mehr erfahren</a>
 							</div>
 						</section>
 						<section class="spotlight right">
-							<a href="#" ><img class="image" src="images/pic02.jpg" alt="" /></a>
+							<a href="imWald.php" ><img class="image" src="images/pic02.jpg" alt="" /></a>
 							<div class="content">
-								<h3>Die Waldplätze</h3>
+								<h3>Im Wald</h3>
 								<p>Der Wald bietet viel Platz zum Rennen, Klettern, Toben und Springen. Die Kinder nehmen ihre Umgebung mit allen Sinnen wahr. Je nach Waldplatz und Witterung kann gemalt, geschnitzt, gebastelt, gebaut oder geplanscht werden.  </p>
-								<a href="#" class="button alt small">Mehr erfahren</a>
+								<a href="imWald.php" class="button alt small">Mehr erfahren</a>
 							</div>
 						</section>
 						<section class="spotlight left">
-							<a href="#" ><img class="image" src="images/pic03.jpg" alt="" /></a>
+							<a href="tagImWald.php" ><img class="image" src="images/pic03.jpg" alt="" /></a>
 							<div class="content">
 								<h3>Ein Tag im Waldkindergarten</h3>
 								<p>Der tägliche Aufenthalt im Wald zu jeder Jahreszeit gibt den Kindern Raum mit der sie umgebenden Natur unmittelbar in Kontakt zu kommen. Kein Tag ist wie der andere. </p>
-								<a href="#" class="button alt small">Bericht lesen</a>
+								<a href="tagImWald.php" class="button alt small">Bericht lesen</a>
 							</div>
 						</section>
 					</section>
