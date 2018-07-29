@@ -25,17 +25,22 @@ if ($result->num_rows === 0) {
 echo "<section class=\"box\">\n";
 echo "\t\t\t\t\t\t\t\t<h3>Termine</h3>\n";
 echo "\t\t\t\t\t\t\t\t<ul class=\"alt\">\n";
+$num_term = 0;
 while ($termine= $result->fetch_assoc()) {
     $start_timestring = $termine['startzeit'];
     $start_datum = strtotime($start_timestring);
     $now = time();
         if ($start_datum > $now) {
+            $num_term = $num_term+1;
             $eventdatum = date('d.m.Y', $start_datum);
             echo "\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t<details>\n\t\t\t\t\t\t\t\t\t\t\t<summary>\n\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"floating-box\">". $eventdatum. "</span>\n";
             echo "\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"floating-box\">".$termine['titel']."</span>\n\t\t\t\t\t\t\t\t\t\t\t</summary>\n";
             echo "\t\t\t\t\t\t\t\t\t\t\t<p style=\"margin: .5em 0 .5em 1.5em\">".$termine['termin']."</p>\n\t\t\t\t\t\t\t\t\t\t</details>\n";  	
             echo "\t\t\t\t\t\t\t\t\t</li>\n";
         }
+}
+if ($num_term == 0){
+    echo "\t\t\t\t\t\t\t\t\t<li>Leider sind keine derzeit keine aktuellen Termine verfügbar</li>";
 }
 echo "\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t</section>\n";
 $result->free();
