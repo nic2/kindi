@@ -1,9 +1,12 @@
 @import 'libs/vars';
 @import 'libs/functions';
 @import 'libs/mixins';
-@import url('font-awesome.min.css');
+/*@import url('font-awesome.min.css');
 @import url("source_sans_pro_styesheet.css");
+*/
 
+@import 'assets/css/font-awesome.css';
+@import 'assets/css/source_sans_pro_stylesheet.css';
 /*
 	Alpha by HTML5 UP
 	html5up.net | @ajlkn
@@ -464,6 +467,20 @@
 			margin-bottom: 0;
 		}
 
+		&.impressum {
+			background: _palette(border-bg);
+			border-radius: _size(border-radius);
+			border: solid 1px _palette(border);
+			font-family: _font(family-fixed);
+			font-size: 0.9em;
+			line-height: 1.75em;
+			margin: 0 0 _size(element-margin) 0;
+			padding: 1em 1.5em;
+			padding-left: 6em;
+			text-align: left;
+			
+		}
+
 		&.alt {
 			background: none !important;
 			border-radius: 0 !important;
@@ -632,7 +649,6 @@
     display: table;
 	clear: both;
 }
-
 	.image {
 		border-radius: _size(border-radius);
 		border: 0;
@@ -648,14 +664,14 @@
 			float: left;
 			padding: 0 1.5em 1em 0;
 			top: 0.25em;
-			width:33%;
+			width:45%;
 		}
 
 		&.right {
 			float: right;
 			padding: 0 0 1em 1.5em;
 			top: 0.25em;
-			width:33%;
+			width:40%;
 		}
 
 		&.fit {
@@ -1730,7 +1746,9 @@
 
 			.box {
 				padding: $box-padding-vertical $box-padding-horizontal;
-
+				&.impressum {
+					padding-left:4em;
+				}
 				&.features {
 					> section {
 						padding: $box-padding-vertical $box-padding-horizontal;
@@ -1923,7 +1941,9 @@
 				margin: (_size(element-margin) * 0.5);
 				overflow-x: hidden;
 				padding: $box-padding-vertical $box-padding-horizontal !important;
-
+				&.impressum {
+					padding-left: 1em;
+				}
 				&.features {
 					.features-row {
 						border-top: 0;
@@ -2131,7 +2151,9 @@
 				box-shadow: none;
 				margin: (_size(element-margin) * 0.5) 0 0 0;
 				padding: $box-padding-vertical $box-padding-horizontal !important;
-
+				&.impressum {
+					padding-left: 1em;
+				}
 				&.features {
 					.features-row {
 						section {
