@@ -51,7 +51,7 @@
 
 					<section class="box special">
 						<section class="spotlight left">
-							<a href="unsereWaldkindergarten.php"><img class="image" src="images/huette.jpg" alt="" /></a>
+							<a href="unserWaldkindergarten.php"><img class="image" src="images/huette.jpg" alt="" /></a>
 							<div class="content">
 								<h3>Unser Waldkindergarten</h3>
 								<p>Zu unserem Waldkindergarten gehört eine Blockhütte mit angrenzendem Spielbereich. Diese dient als Rückzugsort bei sehr nassem, kaltem oder windigem Wetter. Hier gibt es auch einen warmen Holzpelettofen, eine Küche und ein Bad mit Toilette.</p>
