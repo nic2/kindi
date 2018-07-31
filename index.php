@@ -92,14 +92,13 @@
 					<div class="row">
 						<div class="6u 12u(narrower)">
                             <?php
-                            include('./termine.php')
+                            include("termine.php")
                             ?>
 						</div>
 						<div class="6u 12u(narrower)">
-							<section class="box special">
-								<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FWaldkindergartenSchoenbuchstrolcheHildrizhausen%2F&tabs=timeline&width=500&height=499&small_header=true&adapt_container_width=true&hide_cover=true&show_facepile=false&appId" width="500" height="499" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
-							</section>
-
+							<?php
+							include("blog.php")
+							?>
 						</div>
 					</div>
 
