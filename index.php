@@ -59,7 +59,7 @@
 							</div>
 						</section>
 						<section class="spotlight right">
-							<a href="imWald.php" ><img class="image" src="images/pic02.jpg" alt="" /></a>
+							<a href="imWald.php" ><img class="image" src="images/imWald.jpg" alt="" /></a>
 							<div class="content">
 								<h3>Im Wald</h3>
 								<p>Der Wald bietet viel Platz zum Rennen, Klettern, Toben und Springen. Die Kinder nehmen ihre Umgebung mit allen Sinnen wahr. Je nach Waldplatz und Witterung kann gemalt, geschnitzt, gebastelt, gebaut oder geplanscht werden.  </p>
@@ -67,7 +67,7 @@
 							</div>
 						</section>
 						<section class="spotlight left">
-							<a href="tagImWald.php" ><img class="image" src="images/pic03.jpg" alt="" /></a>
+							<a href="tagImWald.php" ><img class="image" src="images/einTag.jpg" alt="" /></a>
 							<div class="content">
 								<h3>Ein Tag im Waldkindergarten</h3>
 								<p>Der tägliche Aufenthalt im Wald zu jeder Jahreszeit gibt den Kindern Raum mit der sie umgebenden Natur unmittelbar in Kontakt zu kommen. Kein Tag ist wie der andere. </p>
