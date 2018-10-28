@@ -117,7 +117,7 @@ Zum Vesper haben wir selbst etwas mitgebracht. Tee und im Sommer Sprudel sind im
 								<img class="image left" src="images/rueckweg.jpg" alt="Rueckweg" />
 								<h4>12:00 Uhr Rückweg</h4>
 								<p>
-									Wir gehen mit dem Bollerwagen wieder zurück zur Hütte.
+									Wir gehen mit der Karre wieder zurück zur Hütte.
 								</p>
 								<h4>12:30 Uhr bis 13:30 Uhr Abholzeit</h4>
 								<p>
@@ -130,13 +130,13 @@ Zum Vesper haben wir selbst etwas mitgebracht. Tee und im Sommer Sprudel sind im
 					<div class="box">
 						<h3>Nachmittagsbetreuung</h3>
 						<p>
-							Zweimal die Woche haben die Eltern die Möglichkeit ihre Kinderdurchgängig bis 17.00Uhr betreuen zu lassen. 
+							Zweimal die Woche haben die Eltern die Möglichkeit ihre Kinder durchgängig bis 17.00Uhr betreuen zu lassen. 
 						</p>
 						<div class="clearfix">
 								<img class="image left" src="images/essen.jpg" alt="" />
 								<h4>13.30 Uhr Mittagessen</h4>
 								<p>
-									Das Mittagessen wird uns frisch von Meyers Menu an die Hütte geliefert.
+									Das Mittagessen wird uns frisch von Meyers Menü an die Hütte geliefert.
 								</p>
 						</div>
 						<div class="clearfix">
