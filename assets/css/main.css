@@ -1,5 +1,7 @@
-@import url("font-awesome.min.css");
+/*@import url('font-awesome.min.css');
 @import url("source_sans_pro_styesheet.css");
+*/
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,300italic,400italic");
 /*
 	Alpha by HTML5 UP
 	html5up.net | @ajlkn
@@ -1554,6 +1556,9 @@ header.major {
     padding: 1.5em 0 0 0;
     font-style: normal; }
 
+footer {
+  padding-bottom: 0em; }
+
 /* Form */
 form {
   margin: 0 0 2em 0; }
@@ -1723,6 +1728,17 @@ input[type="radio"] + label:before {
   padding: 2em; }
   .box > :last-child {
     margin-bottom: 0; }
+  .box.impressum {
+    background: #f8f8f8;
+    border-radius: 6px;
+    border: solid 1px #e5e5e5;
+    font-family: monospace;
+    font-size: 0.9em;
+    line-height: 1.75em;
+    margin: 0 0 2em 0;
+    padding: 1em 1.5em;
+    padding-left: 6em;
+    text-align: left; }
   .box.alt {
     background: none !important;
     border-radius: 0 !important;
@@ -1838,6 +1854,12 @@ input[type="radio"] + label:before {
   display: table;
   clear: both; }
 
+.inbox {
+  margin: -1.5em;
+  display: table; }
+  .inbox li {
+    padding: 0em; }
+
 .image {
   border-radius: 6px;
   border: 0;
@@ -1850,12 +1872,14 @@ input[type="radio"] + label:before {
     float: left;
     padding: 0 1.5em 1em 0;
     top: 0.25em;
-    width: 33%; }
+    width: 43%; }
+    .image.left.small {
+      width: 25%; }
   .image.right {
     float: right;
     padding: 0 0 1em 1.5em;
     top: 0.25em;
-    width: 33%; }
+    width: 43%; }
   .image.fit {
     display: block;
     margin: 0 0 2em 0;
@@ -2370,7 +2394,7 @@ body.landing #page-wrapper {
 #banner {
   background-attachment: scroll,							fixed;
   background-color: #666;
-  background-image: url("images/overlay.png"), url("../../images/banner4.jpg");
+  background-image: url("images/overlay.png"), url("../../images/bigbanner.jpg");
   background-position: top left,						center center;
   background-repeat: repeat,							no-repeat;
   background-size: auto,							cover;
@@ -2417,10 +2441,10 @@ body.landing #page-wrapper {
 #generic_banner {
   background-attachment: scroll,							fixed;
   background-color: #666;
-  background-image: url("images/overlay.png"), url("../../images/banner4.jpg");
-  background-position: top left,						center center;
+  background-image: url("images/overlay.png"), url("../../images/genericbanner.jpg");
+  background-position: top left,						top center;
   background-repeat: repeat,							no-repeat;
-  background-size: auto,							cover;
+  background-size: auto,							contain;
   color: #fff;
   padding: 4em 0 4em 0;
   text-align: center; }
@@ -2483,7 +2507,7 @@ body.landing #main {
 
 /* Footer */
 #footer {
-  padding: 4em 0 6em 0;
+  padding: 10em 0 0em 0;
   background-attachment: scroll,							fixed;
   background-color: #666;
   background-image: url("images/overlay.png"), url("../../images/banner4.jpg");
@@ -2593,7 +2617,8 @@ body.landing #main {
       font-size: 3.5em; }
 
   #generic_banner {
-    background-attachment: scroll; }
+    background-attachment: scroll;
+    background-size: auto,							cover; }
     #generic_banner h2 {
       font-size: 3.5em; }
 
@@ -2629,6 +2654,8 @@ body.landing #main {
   /* Box */
   .box {
     padding: 3em 2em; }
+    .box.impressum {
+      padding-left: 4em; }
     .box.features > section {
       padding: 3em 2em; }
     .box .image.featured {
@@ -2804,6 +2831,8 @@ body.landing #main {
     margin: 1em;
     overflow-x: hidden;
     padding: 2em 2em !important; }
+    .box.impressum {
+      padding-left: 1em; }
     .box.features .features-row {
       border-top: 0;
       padding: 0; }
@@ -2918,6 +2947,8 @@ body.landing #main {
     box-shadow: none;
     margin: 1em 0 0 0;
     padding: 3em 1em !important; }
+    .box.impressum {
+      padding-left: 1em; }
     .box.features .features-row section {
       margin: 3em 0 0 0 !important;
       padding: 3em 0 0 0 !important; }
