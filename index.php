@@ -97,7 +97,7 @@
 						</div>
 						<div class="6u 12u(narrower)">
 							<?php
-							#include("blog.php")
+							include("blog.php")
 							?>
 						</div>
 					</div>
