@@ -51,7 +51,7 @@
 
 					<section class="box special">
 						<section class="spotlight left">
-							<a href="unserWaldkindergarten.php"><img class="image" src="images/huette.jpg" alt="" /></a>
+							<a href="unserWaldkindergarten.php"><img class="image" src="images/huette.jpg" alt="Bild der Hütte des Waldkindergartens Schönbuchstrolche" /></a>
 							<div class="content">
 								<h3>Unser Waldkindergarten</h3>
 								<p>Zu unserem Waldkindergarten gehört eine Blockhütte mit angrenzendem Spielbereich. Diese dient als Rückzugsort bei sehr nassem, kaltem oder windigem Wetter. Hier gibt es auch einen warmen Holzpelettofen, eine Küche und ein Bad mit Toilette.</p>
@@ -59,7 +59,7 @@
 							</div>
 						</section>
 						<section class="spotlight right">
-							<a href="imWald.php" ><img class="image" src="images/imWald.jpg" alt="" /></a>
+							<a href="imWald.php" ><img class="image" src="images/imWald.jpg" alt="Bild von Kindern und Erziehern im Schönbuch" /></a>
 							<div class="content">
 								<h3>Im Wald</h3>
 								<p>Der Wald bietet viel Platz zum Rennen, Klettern, Toben und Springen. Die Kinder nehmen ihre Umgebung mit allen Sinnen wahr. Je nach Waldplatz und Witterung kann gemalt, geschnitzt, gebastelt, gebaut oder geplanscht werden.  </p>
