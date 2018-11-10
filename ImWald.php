@@ -71,7 +71,7 @@
 							</p>
 						</div>
 						<div class="clearfix">
-							<img class="image left" src="images/kohlweiher.jpg" alt="" />
+							<img class="image left" src="images/kohlweiher.jpg" alt="Bild von Kindern am Kohlweiher" />
 							<h3>Unsere Waldplätze</h3>
 							<p>
 							Im Wald haben wir verschiedene regelmäßige Anlaufstellen, unsere Waldplätze. Je nach Wetter, Jahreszeit und geplanten Aktivitäten wählen die Erzieher einen unsere Waldplätze und 
