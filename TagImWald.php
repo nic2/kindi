@@ -1,6 +1,6 @@
 <?php 
 
-# indetagimWald.php
+# tagimWald.php
 # Beschreibung eines tpyischen Tages im Wald bei den Schönbuchstolchen
 # Erstellt 2018: Nicole und Florian Schön
 
@@ -73,15 +73,14 @@
 							<img class="image left" src="images/freispiel.jpg" alt="Freispiel" />
 							<h4>9.30 Uhr Ankommen am Waldplatz, Beginn der Freispielzeit</h4>
 							<p>Der Wald setzt natürliche Grenzen und bietet viele Freiheiten: die Freiheit mit anderen zu kooperieren, sich zurückzuziehen oder einem anderen auch mal aus dem Weg zu gehen.
-So wirkt der Wald positiv auf das Konfliktverhalten der Kinder und es entstehen weniger Aggressionen.
-Hier ist Platz für das Entstehen von Freundschaften, die für uns ein wichtiger Wert ist, den wir den Kindern sehr nahe legen und vorleben.
-Im Freispiel kann der natürliche Bewegungsdrang der Kinder ausgelebt werden. Es hat viel Platz zum Rennen, Klettern, Toben, Springen.
-Die Kinder haben jetzt auch Zeit zu malen, zu schnitzen zu basteln zu werken und zu sandeln.
-Grenzen erfahren die Kinder am eigenen Körper. Wenn es doch noch nicht gelingt den ganzen Baumstamm entlang zu balancieren, wenn Steine zu schwer, Stöcke zu lang sind.
-Die Freude ist groß, wenn es gelingt. So eignen sie sich eine positive Selbsteinschätzung an.
-
-Es gibt kaum Spielzeug. Gespielt wird mit dem im Wald vorhandenen Material:
-Stöcke, Zapfen, Erde, Blätter, Wurzeln, Steine,...Hier sind die Phantasie und Kreativität der Kinder gefragt. Aus Stöcken werden Katzen gelegt, aus Steinen werden Kühe, Autos dann schließlich Häuser, die sie in ihre Rollenspiele einbeziehen. Das Spiel entwickelt sich aus den Kindern heraus und wird nicht durch das Material vorgegeben. 
+							So wirkt der Wald positiv auf das Konfliktverhalten der Kinder und es entstehen weniger Aggressionen.
+							Hier ist Platz für das Entstehen von Freundschaften, die für uns ein wichtiger Wert ist, den wir den Kindern sehr nahe legen und vorleben.
+							Im Freispiel kann der natürliche Bewegungsdrang der Kinder ausgelebt werden. Es hat viel Platz zum Rennen, Klettern, Toben, Springen.
+							Die Kinder haben jetzt auch Zeit zu malen, zu schnitzen zu basteln zu werken und zu sandeln.
+							Grenzen erfahren die Kinder am eigenen Körper. Wenn es doch noch nicht gelingt den ganzen Baumstamm entlang zu balancieren, wenn Steine zu schwer, Stöcke zu lang sind.
+							Die Freude ist groß, wenn es gelingt. So eignen sie sich eine positive Selbsteinschätzung an.
+							Es gibt kaum Spielzeug. Gespielt wird mit dem im Wald vorhandenen Material:
+							Stöcke, Zapfen, Erde, Blätter, Wurzeln, Steine,...Hier sind die Phantasie und Kreativität der Kinder gefragt. Aus Stöcken werden Katzen gelegt, aus Steinen werden Kühe, Autos dann schließlich Häuser, die sie in ihre Rollenspiele einbeziehen. Das Spiel entwickelt sich aus den Kindern heraus und wird nicht durch das Material vorgegeben. 
 							</p>
 						</div>
 						<div class="clearfix">
@@ -147,7 +146,7 @@ Zum Vesper haben wir selbst etwas mitgebracht. Tee und im Sommer Sprudel sind im
 							</p>
 						</div>
 						<div class="clearfix">
-							<img class="image left" src="images/nachmittagsaktivitaet.jpg" alt="NAchmittagsaktivitaet" />
+							<img class="image left" src="images/nachmittagsaktivitaet.jpg" alt="Nachmittagsaktivitaet" />
 							<h4>15.00 Uhr bis 17.00 Uhr, Aktivitäten</h4>
 							<p>
 								Evtl. gehen wir noch einmal in den Wald oder bieten den Kindern an der Hütte verschiedene Angebote an wie z.B. Tonen, Malen, Werken, …
