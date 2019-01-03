@@ -43,7 +43,7 @@
                         <p>
                            Das Konzept der Waldkindergärten kommt aus Dänemark und hat schon seit Anfang der Siebziger in Deutschland Fuß gefasst. Die Waldkindergärten sind dabei in der ursprünglichen Idee reguläre, staatlich anerkannte 
                            Kindergärten die nicht an ein Gebäude oder Räumlichkeiten gebunden sind. Meist stehen ein Bauwagen oder eine Schutzmöglichkeit zur Verfügung. Die Schönbuchstrolche sind einer der ersten Waldkindergärten auf der Schönbuchlichtung.  
-                           Den Kindergarten gibt es schon seit 2002 gibt. Er wird durch den Verein Waldkindergarten Schönbuchstrolche Hildrizhausen e.V. getragen. Maximal 20 Kinder im Alter von 3 bis Schuleintritt bilden dabei eine Kindergartengruppe.
+                           Den Kindergarten gibt es schon seit 2002 gibt. Er wird durch den Verein Waldkindergarten Schönbuchstrolche Hildrizhausen e.V. getragen. Maximal 20 Kinder im Alter von 3 Jahre bis Schuleintritt bilden dabei eine Kindergartengruppe.
                         </p>
                            <h4>Unsere Kindergruppen</h4>
                         <p>
@@ -72,9 +72,9 @@
 						<div class="clearfix">
 							<img class="image right" src="images/aussenbereich.jpg" alt="Außenbereich um die Hütte" />
 							<p>
-                                An die Hütte schließt sich ein Spielbereich an, der von den Kindern vor allem an kalten Tagen, in den Bring- und Abholzeiten oder auch bei der Nachmittagsbetreuung genutzt werden kann. Ob Buddeln im Sandkasten, 
-                                Klettern auf dem Kletterbaum oder im Baumhaus, Verstecken im Weidentippi, Bücher anschauen auf der Veranda, ... es bieten sich vielfältige Möglichkeiten sich alleine oder mit anderen zu Beschäftigen. Zum Außenbereich zählen zudem noch ein von den 
-                                Kindern mit angelegtes und gespflegtes Außenbeet und ein Hasenstall mit unseren zwei tierischen Mitbewohnern. Natürlich haben die Kinder nicht nur an kalten Tagen auch die Möglichkeit im Inneren der Hütte zu 
+                                An die Hütte schließt sich ein Spielbereich an, der von den Kindern vor allem an kalten Tagen, in den Bring- und Abholzeiten oder auch bei der Nachmittagsbetreuung genutzt werden kann. Ob buddeln im Sandkasten, 
+                                klettern auf dem Kletterbaum oder im Baumhaus, verstecken im Weidentippi, Bücher anschauen auf der Veranda, ... es bieten sich vielfältige Möglichkeiten sich alleine oder mit anderen zu beschäftigen. Zum Außenbereich zählen zudem noch ein von den 
+                                Kindern mit angelegtes und gepflegtes Außenbeet und ein Hasenstall mit unseren zwei tierischen Mitbewohnern. Natürlich haben die Kinder nicht nur an kalten Tagen auch die Möglichkeit im Inneren der Hütte zu 
                                 spielen, sich auszuruhen, ein Bild zu malen oder anderweitig kreativ tätig zu werden.
                            </p>
 						</div>
