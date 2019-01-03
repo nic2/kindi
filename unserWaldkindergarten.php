@@ -74,7 +74,7 @@
 							<p>
                                 An die Hütte schließt sich ein Spielbereich an, der von den Kindern vor allem an kalten Tagen, in den Bring- und Abholzeiten oder auch bei der Nachmittagsbetreuung genutzt werden kann. Ob Buddeln im Sandkasten, 
                                 Klettern auf dem Kletterbaum oder im Baumhaus, Verstecken im Weidentippi, Bücher anschauen auf der Veranda, ... es bieten sich vielfältige Möglichkeiten sich alleine oder mit anderen zu Beschäftigen. Zum Außenbereich zählen zudem noch ein von den 
-                                Kindern mit angelegtes und gespflegtzes Außenbeet und ein Hassenstall mit unseren zwei tierischen Mitbewohnern. Natürlich haben die Kinder nicht nur an kalten Tagen auch die Möglichkeit im Inneren der Hütte zu 
+                                Kindern mit angelegtes und gespflegtes Außenbeet und ein Hasenstall mit unseren zwei tierischen Mitbewohnern. Natürlich haben die Kinder nicht nur an kalten Tagen auch die Möglichkeit im Inneren der Hütte zu 
                                 spielen, sich auszuruhen, ein Bild zu malen oder anderweitig kreativ tätig zu werden.
                            </p>
 						</div>
