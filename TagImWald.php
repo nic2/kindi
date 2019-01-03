@@ -39,20 +39,23 @@
 					</header>
 					<div class="box">
 						<p>
-							Kindergartenkinder brauchen Rituale: im Naturraum genauso wie in Regeleinrichtungen. Rituale geben Orientierung, Sicherheit, Geborgenheit und stärken das Gemeinschaftsgefühl. Deshalb ist unser Tagesablauf in seiner wesentlichen Struktur immer gleich.
+							Kindergartenkinder brauchen Rituale: im Naturraum genauso wie in Regeleinrichtungen. Rituale geben Orientierung, Sicherheit, 
+							Geborgenheit und stärken das Gemeinschaftsgefühl. Deshalb ist unser Tagesablauf in seiner wesentlichen Struktur immer gleich.
 						</p>	
 						<div class="clearfix">
 							<img class="image right" src="images/ankommen.jpg" alt="Kinder kommen an" />
 							<h4>7.30 Uhr bis 8.30 Uhr Bringzeit</h4>
 							<p>
-								Eltern bringen ihre Kinder an die Hütte, dort werden sie von den Erzieherinnen empfangen und es ist Raum für einen kurzen Austausch. Die Kinder treffen ihre Freunde und es werden erste Spielideen ausgetauscht.
+								Eltern bringen ihre Kinder an die Hütte, dort werden sie von den Erzieherinnen empfangen und es ist Raum für einen kurzen Austausch. 
+								Die Kinder treffen ihre Freunde und es werden erste Spielideen ausgetauscht.
 							</p>
 						</div>
 						<div class="clearfix">
 							<img class="image left" src="images/morgenkreis.jpg" alt="Kinder sitzen im Morgenkreis" />
 							<h4>8.30 Uhr Morgenkreis</h4>
 							<p>	
-								Zu Beginn des Morgenkreises singen wir zunächst ein Begrüßungslied. Dann besprechen wir wer hier ist, wer fehlt und wer weiß warum. Anschließend zählen wir gemeinsam die Kinder. Hierbei lernen sie ganz spielerisch den Umgang mit Zahlen.</br>&nbsp;</br>
+								Zu Beginn des Morgenkreises singen wir zunächst ein Begrüßungslied. Dann besprechen wir wer hier ist, wer fehlt und wer weiß warum. 
+								Anschließend zählen wir gemeinsam die Kinder. Hierbei lernen sie ganz spielerisch den Umgang mit Zahlen.</br>&nbsp;</br>
 								Im Morgenkreis
 								<ul class="inbox">
 									<li>lernen wir Lieder, Fingerspiele, hören eine Geschichte passend zum aktuellen Thema</li>
@@ -66,7 +69,9 @@
 							<img class="image right" src="images/weginwald.jpg" alt="Weg in den Wald" />
 							<h4>9.00 Uhr Weg in den Wald</h4>
 							<p>
-								Als Ziel haben wir verschiedene Plätze zur Auswahl, welche wir abhängig von der Witterung, der Jahreszeit bzw. der geplanten pädagogischen Aktivität besuchen. Im Sommer ist es z.B. der Kohlweiher und im Winter ein Hang zum Herunterrutschen.Unterwegs ist Zeit zum Erkunden, zum Beobachten, zum Fragen: Eine Blume hier, ein Vogel dort. Federn, Fichtennadeln, ein angenagter Zapfen, ein Frosch, … 
+								Als Ziel haben wir verschiedene Plätze zur Auswahl, welche wir abhängig von der Witterung, der Jahreszeit bzw. der geplanten pädagogischen Aktivität besuchen. 
+								Im Sommer ist es z.B. der Kohlweiher und im Winter ein Hang zum Herunterrutschen. Unterwegs ist Zeit zum Erkunden, zum Beobachten, zum Fragen: Eine Blume hier, ein Vogel dort. Federn, Fichtennadeln, 
+								ein angenagter Zapfen, ein Frosch, … 
 							</p>
 						</div>
 						<div class="clearfix">
@@ -87,8 +92,8 @@
 							<img class="image right" src="images/vesper.jpg" alt="Vesper am Waldsofa" />
 							<h4>10.15 Uhr Vesperzeit</h4>
 							<p>
-								Nach dem gründlichen Händewaschen, bei dem die Kinder ganz selbstverständlich eine Aufgabe übernehmen (Förderung der Selbständigkeit u.a.), wird gemeinsam gefrühstückt.
-Zum Vesper haben wir selbst etwas mitgebracht. Tee und im Sommer Sprudel sind immer dabei.
+								Nach dem gründlichen Händewaschen, bei dem die Kinder ganz selbstverständlich eine Aufgabe übernehmen (Förderung der Selbständigkeit u.a.), wird gemeinsam gefrühstückt. 
+								Zum Vesper haben wir selbst etwas mitgebracht. Tee und im Sommer Sprudel sind immer dabei.
 							</p>
 						</div>
 						<div class="clearfix">
@@ -137,16 +142,13 @@ Zum Vesper haben wir selbst etwas mitgebracht. Tee und im Sommer Sprudel sind im
 								<p>
 									Das Mittagessen wird uns frisch von Meyers Menü an die Hütte geliefert.
 								</p>
+								<h4>14.15 Uhr bis 15.00 Uhr Ruhepause</h4>
+								<p>
+									Die jüngeren Kinder haben die Möglichkeit in der Hütte zu schlafen. Die älteren Kinder dürfen eine Ruhepause machen mit Kassette hören, Bilderbücher anschauen, eine Decke auf die Wiese zu legen und die Wolken zu beobachten, … 
+								</p>
 						</div>
 						<div class="clearfix">
-							<img class="image right" src="images/pic02.jpg" alt="" />
-							<h4>14.15 Uhr bis 15.00 Uhr Ruhepause</h4>
-							<p>
-								Die jüngeren Kinder haben die Möglichkeit in der Hütte zu schlafen. Die älteren Kinder dürfen eine Ruhepause machen mit Kassette hören, Bilderbücher anschauen, eine Decke auf die Wiese zu legen und die Wolken zu beobachten, … 
-							</p>
-						</div>
-						<div class="clearfix">
-							<img class="image left" src="images/nachmittagsaktivitaet.jpg" alt="Nachmittagsaktivitaet" />
+							<img class="image right" src="images/nachmittagsaktivitaet.jpg" alt="Nachmittagsaktivitaet" />
 							<h4>15.00 Uhr bis 17.00 Uhr, Aktivitäten</h4>
 							<p>
 								Evtl. gehen wir noch einmal in den Wald oder bieten den Kindern an der Hütte verschiedene Angebote an wie z.B. Tonen, Malen, Werken, …
