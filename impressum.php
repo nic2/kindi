@@ -70,7 +70,7 @@
                         <h4> Webseite </h4>
                         <div class="box impressum">
                             Design und Gestaltung der Seite: Nicole und Florian Schön </br>
-                            Verantwortlich für journalistisch-redaktionelle gestaltete Inhalte: Florian Schön, Scheunenweg 21, 71155 Altdorf <a href="mailto:webmaster@schoenbuchstrolche.de">webmaster@schoenbuchstrolche.de</a> </br>
+                            Verantwortlich für journalistisch-redaktionelle gestaltete Inhalte: Florian Schön, Scheunenweg 21, 71155 Altdorf <a href="mailto:oeffentlichkeitsarbeit@schoenbuchstrolche.de">oeffentlichkeitsarbeit@schoenbuchstrolche.de</a> </br>
                         </div>
                         <h4>Haftungshinweis</h4>
                         <div class="box impressum">
