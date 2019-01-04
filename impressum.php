@@ -58,8 +58,6 @@
                             &nbsp;</br>
                             Registergericht: Registergericht Stuttgart  </br>
                             Registernummer VR 241523 </br>
-                            &nbsp; </br>
-                            Umsatzsteuer-Identifikationsnummer gemäß §27 a Umsatzsteuergesetz: ???
                         </div>
                         <h4> Bankverbindung </h4>
                         <div class="box impressum">  
