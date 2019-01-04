@@ -4,7 +4,7 @@
 # Beschreibung des Anmeldeprozedere im Waldkindergarten
 # Erstellt 2018: Nicole und Florian Schön
 
-$dokumentsdir ='http://schoenbuchstrolche.de/dokumente/';
+$dokumentsdir ='https://schoenbuchstrolche.de/dokumente/';
 ?>
 
 <!DOCTYPE HTML>
