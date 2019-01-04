@@ -72,7 +72,7 @@
                         </div>
                         <div class="clearfix">
                             <img class="image left small" src="images/vorstand_alexander.jpg" alt="Alexander Bichler" />
-                            <h4>Kassier</h4>
+                            <h4>Kassierer</h4>
 							<p>
 							    Alexander Bichler</br>
                                 Falkentorstraße 9</br>
@@ -88,11 +88,11 @@
                                 und Klaus Seiberth</br>
                                 Schelmenäckerstraße 3</br>
                                 71157 Hildrizhausen </br>
-                                <a href="mailto:kassierer@schoenbuchstrolche.de">kassierer@schoenbuchstrolche.de</a>
+                                <a href="mailto:kassierer@schoenbuchstrolche.de">beisitzer@schoenbuchstrolche.de</a>
                             </p>
                         </div>
                         <div class="clearfix">
-                            <img class="image left small" src="images/karre.jpg" alt="Florian Schön" />
+                            <img class="image left small" src="images/vorstand_florian.jpg" alt="Florian Schön" />
                             <h4>Beisitzer</h4>
 							<p>
                                 Florian Schön </br>
