@@ -1,7 +1,7 @@
 <?php 
 
 # index.php
-# Hauptsite des WEbauftritts der Schönbuchstrolche Waldkindergarten Hildrizhausen e.V
+# Hauptsite des Webauftritts der Schönbuchstrolche Waldkindergarten Hildrizhausen e.V
 # Erstellt 2018: Nicole und Florian Schön
 
 ?>
@@ -44,8 +44,9 @@
 						<header class="major">
 							<h2>Herzlich Willkommen!</h2>
 							<p class="align-justify">Mit unserem Online-Angebot können Sie sich über unseren Kindergarten informieren und
-							sich einen ersten Eindruck von den Schönbuchstrolchen machen. Gerne können Sie uns 
-							kontaktieren, wenn Sie einen Schnuppertag für ihr Kind vereinbaren möchten oder weitere Fragen haben.</p>
+								sich einen ersten Eindruck von den Schönbuchstrolchen machen. Gerne können Sie uns 
+								kontaktieren, wenn Sie einen Schnuppertag für ihr Kind vereinbaren möchten oder weitere Fragen haben.
+							</p>
 						</header>
 					</section>
 
@@ -54,7 +55,11 @@
 							<a href="unserWaldkindergarten.php"><img class="image" src="images/huette.jpg" alt="Bild der Hütte des Waldkindergartens Schönbuchstrolche" /></a>
 							<div class="content">
 								<h3>Unser Waldkindergarten</h3>
-								<p>Zu unserem Waldkindergarten gehört eine Blockhütte mit angrenzendem Spielbereich. Diese dient als Rückzugsort bei sehr nassem, kaltem oder windigem Wetter. Hier gibt es auch einen warmen Holzpelettofen, eine Küche und ein Bad mit Toilette.</p>
+								<p>
+									Den Waldkindergarten Schönbuchstrolche gibt es in Hildrizhausen schon mehr als 15 Jahre. Der Waldkindergarten stellt eine Alternative und Ergänzung zum allgemeinen Hildrizhausener Kindergartenangebot dar. 
+									Maximal 20 Kinder im Alter von 3 Jahren bis zum Schuleintritt bilden eine Kindergartengruppe mit Betreuungszeiten Vormittags und der Möglichkeit der Betreuung an zwei Nachmittagen. 
+									Als Ausgangspunkt für unseren täglichen Waldbesuche gehört eine Blockhütte mit angrenzendem Spielbereich.
+								</p>
 								<a href="unserWaldkindergarten.php" class="button alt small">Mehr erfahren</a>
 							</div>
 						</section>
@@ -62,7 +67,9 @@
 							<a href="imWald.php" ><img class="image" src="images/imWald.jpg" alt="Bild von Kindern und Erziehern im Schönbuch" /></a>
 							<div class="content">
 								<h3>Im Wald</h3>
-								<p>Der Wald bietet viel Platz zum Rennen, Klettern, Toben und Springen. Die Kinder nehmen ihre Umgebung mit allen Sinnen wahr. Je nach Waldplatz und Witterung kann gemalt, geschnitzt, gebastelt, gebaut oder geplanscht werden.  </p>
+								<p>Der Wald bietet viel Platz zum Rennen, Klettern, Toben und Springen. Die Kinder nehmen ihre Umgebung mit allen Sinnen wahr. 
+									Je nach Waldplatz und Witterung kann gemalt, geschnitzt, gebastelt, gebaut oder geplanscht werden.  
+								</p>
 								<a href="imWald.php" class="button alt small">Mehr erfahren</a>
 							</div>
 						</section>
@@ -70,7 +77,9 @@
 							<a href="tagImWald.php" ><img class="image" src="images/einTag.jpg" alt="" /></a>
 							<div class="content">
 								<h3>Ein Tag im Waldkindergarten</h3>
-								<p>Der tägliche Aufenthalt im Wald zu jeder Jahreszeit gibt den Kindern Raum mit der sie umgebenden Natur unmittelbar in Kontakt zu kommen. Kein Tag ist wie der andere. </p>
+								<p>
+									Der tägliche Aufenthalt im Wald zu jeder Jahreszeit gibt den Kindern Raum mit der sie umgebenden Natur unmittelbar in Kontakt zu kommen. Kein Tag ist wie der andere. 
+								</p>
 								<a href="tagImWald.php" class="button alt small">Bericht lesen</a>
 							</div>
 						</section>
@@ -109,7 +118,7 @@
 
 					<h2>Sie möchten uns kennenlernen?</h2>
 						<p>Dann vereinbaren Sie mit uns einen Schnuppertag oder ein Infogespräch.</p>
-						<a href="#" class="button">Termin vereinbaren</a>
+						<a href="contact.php?pg=1" class="button">Termin vereinbaren</a>
 				</section>
 
 			<!-- Footer -->
