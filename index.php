@@ -44,7 +44,7 @@
 						<header class="major">
 							<h2>Herzlich Willkommen!</h2>
 							<p class="align-justify">Mit unserem Online-Angebot können Sie sich über unseren Kindergarten informieren und
-								sich einen ersten Eindruck von den Schönbuchstrolchen machen. Gerne können Sie uns 
+								sich einen ersten Eindruck von den Schönbuchstrolchen verschaffen. Gerne können Sie uns 
 								kontaktieren, wenn Sie einen Schnuppertag für ihr Kind vereinbaren möchten oder weitere Fragen haben.
 							</p>
 						</header>
@@ -56,9 +56,9 @@
 							<div class="content">
 								<h3>Unser Waldkindergarten</h3>
 								<p>
-									Den Waldkindergarten Schönbuchstrolche gibt es in Hildrizhausen schon mehr als 15 Jahre. Der Waldkindergarten stellt eine Alternative und Ergänzung zum allgemeinen Hildrizhausener Kindergartenangebot dar. 
-									Maximal 20 Kinder im Alter von 3 Jahren bis zum Schuleintritt bilden eine Kindergartengruppe mit Betreuungszeiten Vormittags und der Möglichkeit der Betreuung an zwei Nachmittagen. 
-									Als Ausgangspunkt für unseren täglichen Waldbesuche gehört eine Blockhütte mit angrenzendem Spielbereich.
+									Den Waldkindergarten Schönbuchstrolche in Hildrizhausen gibt es seit mehr als 15 Jahren. Er stellt eine Ergänzung des allgemeinen Hildrizhausener Kindergartenangebots dar. 
+									Es werden 20 Kinder im Alter von 3 Jahren bis zum Schuleintritt vormittags betreut. Darüberhinaus besteht an zwei Tagen die Möglichkeit einer Nachmittagsbetreuung.
+									Eine Blockhütte mit angrenzendem Spielbereich bildet den Ausgangspunkt für die täglichen Waldbesuche.
 								</p>
 								<a href="unserWaldkindergarten.php" class="button alt small">Mehr erfahren</a>
 							</div>

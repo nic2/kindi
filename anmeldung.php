@@ -42,14 +42,14 @@ $dokumentsdir ='https://schoenbuchstrolche.de/dokumente/';
 					<div class="box">
                         <h3>Interesse geweckt</h3>
                         <p>
-						Haben wir Ihr Interesse geweckt. Sie möchten den Waldkindergarten und die Erzieher zusammen mit Ihrem Kind einmal auch praktisch kennen lernen. Oder sie sind sich schon ganz sicher, dass Sie einen kleinen Schönbuchstrolch 
+						Haben wir Ihr Interesse geweckt. Sie möchten den Waldkindergarten und die Erzieher zusammen mit Ihrem Kind einmal bei ihrer praktischen Arbeit erleben und kennenlernen. Oder sie sind sich schon ganz sicher, dass Sie einen kleinen Schönbuchstrolch 
 						zu Hause haben. Dann nichts wie los. Im folgenden ist kurz unser übliches Prozedere beschrieben. Weitere Informationen finden sich zudem auch in unserer <a href="<?php echo $dokumentsdir.'Waldkindergartenordnung.pdf'; ?>">Kindergartenordnung</a>
                         </p>
 						<h3>Üblicher Ablauf</h3>
                             <h4>Schnuppertag</h4>
 							<p>
-							Interessierte Eltern können jederzeit in Absprache mit dem pädagogischen Team einen Schnuppertag im Waldkindergarten absolvieren. Eine Hospitation möglichst beider Eltern mit 
-							dem aufzunehmenden Kindist aus Sicht des Vereins wünschenswert, aber keine Voraussetzung für die Anmeldung eines Kindes im Waldkindergarten.
+							Interessierte Eltern können jederzeit in Absprache mit dem pädagogischen Team zu einen Schnuppertag in den Waldkindergarten kommen. Eine Hospitation möglichst beider Eltern mit 
+							dem aufzunehmenden Kind ist aus Sicht des Vereins wünschenswert, aber keine Voraussetzung für die Anmeldung eines Kindes im Waldkindergarten.
 							</p>
 							<h4>Formular für die Voranmeldung</h4>
 							<p>Ein von den Eltern schriftlich gestellter Antrag zur Voranmeldung wird vom Vorstand in die Warteliste aufgenommen. Die Anmeldung eines Kindes wird frühestens 3 Monate nach der 

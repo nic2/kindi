@@ -41,7 +41,7 @@
 					<div class="box">
                         <h3>Allgemein</h3>
                         <p>
-						Unsere Einrichtung ist ein Angebot des Elternvereins <i>Schönbuchstrolche Waldkindergarten Hildrizhausen e.V.</i> als annerkannter freier Träger der Jugendhilfe in Kooperation mi der Gemeinde Hildrizhausen.
+						Unsere Einrichtung ist ein Angebot des Elternvereins <i>Schönbuchstrolche Waldkindergarten Hildrizhausen e.V.</i> als annerkannter freier Träger der Jugendhilfe in Kooperation mit der Gemeinde Hildrizhausen.
 						Der Verein wurde vor mehr als 15 Jahren im März 2002 aus einer Elterninitiative heraus, als einer der ersten auf der Schönbuchlichtung gegründet. Er schafft die organisatorischen und finanziellen Rahmenbedingungnen 
 						für den Betrieb des Kindergartens. Er besteht aus den Familien der Kinder und Fördermitgliedern. 
 						</p>
@@ -58,7 +58,7 @@
 						Freundschaften die weit über die reine Kindergartenzeit hinaus gehen.
 						</p>
 						<h3>Der Vorstand</h3>
-						<p>Die Leitungsaufgaben im Verein werden durch den Vorstand ausgeübt. Der erweiterete Vorstand setzt sich zusammen aus den Vorsitzenden, dem Kassier und mehreren Beisitzern, 
+						<p>Die Leitungsaufgaben im Verein werden durch den Vorstand ausgeübt. Der erweiterte Vorstand setzt sich zusammen aus den Vorsitzenden, dem Kassier und mehreren Beisitzern, 
 						die für verschiedene Aufgaben verantwortlich zeichnen. Die Wahl des erweiterten Vorstands erfolgt im Rahmen der Mitgliederversammlung jeweils für ein Jahr. Der erweiterte Vorstand besteht im Moment aus:</p>
 						<div class="clearfix">
                             <img class="image left small" src="images/vorstand_verena.jpg" alt="Verena Heuberger" />

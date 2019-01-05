@@ -43,15 +43,15 @@
                         <p>
                            Das Konzept der Waldkindergärten kommt aus Dänemark und hat schon seit Anfang der Siebziger in Deutschland Fuß gefasst. Die Waldkindergärten sind dabei in der ursprünglichen Idee reguläre, staatlich anerkannte 
                            Kindergärten die nicht an ein Gebäude oder Räumlichkeiten gebunden sind. Meist stehen ein Bauwagen oder eine Schutzmöglichkeit zur Verfügung. Die Schönbuchstrolche sind einer der ersten Waldkindergärten auf der Schönbuchlichtung.  
-                           Den Kindergarten gibt es schon seit 2002 gibt. Er wird durch den Verein Waldkindergarten Schönbuchstrolche Hildrizhausen e.V. getragen. Maximal 20 Kinder im Alter von 3 Jahre bis Schuleintritt bilden dabei eine Kindergartengruppe.
+                           Der Kindergarten besteht seit 2002 und wird durch den Verein Waldkindergarten Schönbuchstrolche Hildrizhausen e.V. getragen. Maximal 20 Kinder im Alter von 3 Jahre bis Schuleintritt bilden dabei eine Kindergartengruppe.
                         </p>
                            <h4>Unsere Kindergruppen</h4>
                         <p>
-                           Eine zusätzliche Förderung findet einmal wöchentlich in den folgenden altersspezifischen kleinen Gruppen statt: 
+                           Eine zusätzliche altersentsprechende Förderung findet einmal wöchentlich in den folgenden Kleingruppen statt: 
                             <ul>
-                                <li>Marienkäfer  Gruppe (3-4 Jährigen)</li>
-                                <li>Füchse Gruppe ( 4-5 Jährigen)</li>
-                                <li>Wölfe Gruppe (Vorschüler)</li>
+                                <li>Marienkäfer (3-4 Jährige)</li>
+                                <li>Füchse ( 4-5 Jährige)</li>
+                                <li>Wölfe (Vorschüler)</li>
                            </ul>
                         </p>
                         <h3>Unsere Öffnungszeiten</h3>
@@ -65,7 +65,7 @@
 						<div class="clearfix">
 							<img class="image left" src="images/huette.jpg" alt="Unsere Hütte" />
 							<p>
-                            Der Waldkindergarten verfügt über eine Blockhütte am Rand des Schönbuchs, die sich direkt an das Gelände des Waldhaus anschließt. Dort sind ein Bad mit Toilette und ein modernen Holzpelletofen zum Heizen der Hütte an 
+                            Der Waldkindergarten verfügt über eine Blockhütte am Rand des Schönbuchs, die sich direkt an das Gelände des Waldhauses anschließt. Dort sind ein Bad mit Toilette und ein modernen Holzpelletofen zum Heizen der Hütte an 
                             kalten Tagen ebenso eine Selbstverständlichkeit, wie eine kleine Küche. 
 							</p>
 						</div>
@@ -74,7 +74,7 @@
 							<p>
                                 An die Hütte schließt sich ein Spielbereich an, der von den Kindern vor allem an kalten Tagen, in den Bring- und Abholzeiten oder auch bei der Nachmittagsbetreuung genutzt werden kann. Ob buddeln im Sandkasten, 
                                 klettern auf dem Kletterbaum oder im Baumhaus, verstecken im Weidentippi, Bücher anschauen auf der Veranda, ... es bieten sich vielfältige Möglichkeiten sich alleine oder mit anderen zu beschäftigen. Zum Außenbereich zählen zudem noch ein von den 
-                                Kindern mit angelegtes und gepflegtes Außenbeet und ein Hasenstall mit unseren zwei tierischen Mitbewohnern. Natürlich haben die Kinder nicht nur an kalten Tagen auch die Möglichkeit im Inneren der Hütte zu 
+                                Kindern mit angelegtes und gepflegtes Außenbeet und ein Hasenstall mit unseren zwei tierischen Mitbewohnern. Natürlich haben die Kinder nicht nur an kalten Tagen die Möglichkeit im Inneren der Hütte zu 
                                 spielen, sich auszuruhen, ein Bild zu malen oder anderweitig kreativ tätig zu werden.
                            </p>
 						</div>

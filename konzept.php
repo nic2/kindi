@@ -40,7 +40,7 @@
 					</header>
 					<div class="box">
                         <h3>Organisation und pädagogische Ziele</h3>
-                        Die Konzeption des Waldkindergartens befindet sich gerade in der Übarbeitung. Sobald diese abgeschlossen ist wird sie hier in Teilen als Website und vollständig als pdf zur Ansicht bereitgestellt. Wir bitten um etwas Geduld.
+                        Die Konzeption des Waldkindergartens befindet sich gerade in der Überarbeitung. Sobald diese abgeschlossen ist wird sie hier in Teilen als Website und vollständig als pdf zur Ansicht bereitgestellt. Wir bitten um etwas Geduld.
 					</div>
 				</section>
 			<!-- Footer -->
