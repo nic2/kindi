@@ -4,6 +4,7 @@
 # Datenschutzerklärung für die Webseite
 # Erstellt 2018: Nicole und Florian Schön
 
+$dokumentsdir ='https://schoenbuchstrolche.de/dokumente/';
 ?>
 
 <!DOCTYPE HTML>
@@ -113,6 +114,9 @@
 						<p>Sofern Sie ausdrücklich in eine längere Speicherung Ihrer Daten einwilligen, bspw. für Ihre Aufnahme in eine Bewerber- oder Interessentendatenbank, werden die Daten aufgrund Ihrer Einwilligung weiterverarbeitet. Rechtsgrundlage ist dann Art. 6 Abs. 1 lit. a) DSGVO. Ihre Einwilligung können Sie aber natürlich jederzeit nach Art. 7 Abs. 3 DSGVO durch Erklärung uns gegenüber mit Wirkung für die Zukunft widerrufen.</p>
 
 						<p><a target="_blank" href="https://www.ratgeberrecht.eu/leistungen/muster-datenschutzerklaerung.html">Muster-Datenschutzerklärung</a> der <a target="_blank" href="https://www.ratgeberrecht.eu/">Anwaltskanzlei Weiß &amp; Partner</a></p>
+					</div>
+					<div class="box">
+						Weitergehende Information zum allgemeinen Datenschutzkonzept des Kindergartens finden Sie in unserer <a href="<?php echo $dokumentsdir.'Datenschutzerklaerung.pdf'; ?>">Datenschutzerklärung </a>
 					</div>
 				</section>
 			<!-- Footer -->
